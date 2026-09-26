@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Cem 👋</h1>
-<h3 align="center">Co-Founder & Chief AI Engineer @ SkyEngineX · Computer Engineering Student</h3>
+<h3 align="center">Co-Founder & Chief AI/ML Engineer @ SkyEngineX · Computer Engineering Student</h3>
 
 <p align="center">
   <a href="https://www.skyenginex.com/"><img src="https://img.shields.io/badge/SkyEngineX-9966CC?style=for-the-badge&logoColor=white" /></a>
